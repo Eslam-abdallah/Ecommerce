@@ -1128,6 +1128,7 @@ a {
     text-align: center;
     background-color: var(--black-color);
     border-radius: 5px;
+    z-index:20;
   }
   .nav-item {
     margin: 5px 0;
